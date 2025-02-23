@@ -1,0 +1,11 @@
+employee_ID,Name,Age,Department,Salary,password
+101,John Doe,35,IT,60000,2015-06-15
+102,Alice Smith,29,HR,55000,2018-08-22
+103,Bob Johnson,41,Finance,75000,2012-02-10
+104,Carol Lee,32,Marketing,64000,2017-05-30
+105,David Wilson,28,IT,62000,2019-11-11
+106,Emma Davis,37,Sales,68000,2013-09-07
+107,Frank Miller,45,Finance,80000,2010-01-20
+108,Grace Taylor,26,HR,52000,2020-02-14
+109,Hannah Brown,33,Marketing,67000,2016-07-12
+110,Isaac Thomas,30,Sales,66000,2018-03-27
