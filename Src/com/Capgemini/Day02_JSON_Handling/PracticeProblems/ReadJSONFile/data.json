@@ -1,0 +1,12 @@
+[{
+  "id": 101,
+  "name": "Alice",
+  "age": 25,
+  "email": "alice@example.com",
+  "skills": ["Java", "Spring", "SQL"]
+},
+{
+"name": "aman",
+ "email": "aman@gmail.com",
+  "age": 26
+}]
