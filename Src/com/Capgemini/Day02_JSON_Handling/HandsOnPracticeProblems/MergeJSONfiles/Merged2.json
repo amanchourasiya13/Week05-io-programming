@@ -1,0 +1,8 @@
+{
+  "email": "johndoe@example.com",
+  "phone": "555-1234",
+  "address": {
+    "zipcode": "12345",
+    "country": "USA"
+  }
+}
