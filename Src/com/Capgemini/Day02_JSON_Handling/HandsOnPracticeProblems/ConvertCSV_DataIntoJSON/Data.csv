@@ -1,0 +1,5 @@
+student_id,name,age,department,marks,grade
+ 1,Alice,20,Computer Science,85,A
+ 2,Bob,22,Mathematics,78,B
+ 3,Charlie,21,Physics,90,A
+ 4,David,23,Chemistry,72,C
